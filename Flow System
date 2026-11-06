@@ -1,0 +1,46 @@
+System Flow
+
+Start
+
+1.Open the system.
+
+2.Display Main Menu.
+
+3.Choose Admin Login or Student Login.
+
+
+Admin Flow:
+
+1.Enter username and password.
+
+2.ccess Admin Menu.
+
+3.View Document Requests.
+
+4.Update Request Status.
+
+5.View Student Accounts.
+
+6.View Request Records.
+
+7.ogout or Back to Main Menu.
+
+Student Flow:
+
+1.Create Account or Login.
+
+2.Access Student Menu.
+
+3.View Available Documents and Prices.
+
+4.Select a Document.
+
+5.Submit Document Request.
+
+6.Receive an Automatic Request Number.
+
+7.Track Request Status.
+
+8.Logout.
+
+End or Thank you for using the system 
